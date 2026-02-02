@@ -2,6 +2,7 @@
 
 An interactive web game that combines classic **Tic-Tac-Toe** with the rich history of **Formula 1**!  
 Players compete using their knowledge of F1 drivers, teams, and nationalities to claim squares on the board.
+PLAY HERE: https://barnynho74.github.io/Tic-Tac-F1/
 
 ## 🎮 How the Game Works
 
